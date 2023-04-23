@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166636614426",
+    "project_id": "protean-chassis-372415",
+    "storage_bucket": "protean-chassis-372415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166636614426:android:188b42bdb3290a471af2a3",
+        "android_client_info": {
+          "package_name": "com.example.win7.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166636614426-a8e4fpkku99it80tnjp6jtlepk2ftbst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win7.myapplication",
+            "certificate_hash": "d666a6634be7d4ef003e1e222130ed792483bf70"
+          }
+        },
+        {
+          "client_id": "166636614426-24ig02mdt47bmumj49bg2pmk4q134no7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUY0xhSFog_jB7h0M1r1VTfpLHp1w4jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166636614426-24ig02mdt47bmumj49bg2pmk4q134no7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
