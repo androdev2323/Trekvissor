@@ -10,40 +10,32 @@ in this app
 
 <table>
 <tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
+<th>Trekk booking screen</th>
+<th>Trekvissor main menu</th>
 </tr>
 <tr>
 
 <td>
 
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
+<img src="./Camera Roll/Trekk details screen .jpg"  alt="1" width = 300px height = 640px >
 
 </td>
 <td>
   
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
+<img src="./Camera Roll/Trekvissor pic 1.jpg"  alt="1" width = 300px height = 640px >
 </td>
 <tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
+<th>Current Bookings UI</th>
+<th>Emergency UI</th>
 </tr>
 <tr>
  <td> 
-   
-  | A | B | C |
-  |--|--|--|
-  | 1 | 2 | 3 |
+   <img src="./Camera Roll/current bookings screenjpg.jpg"  alt="1" width = 300px height = 640px >
+ 
    </td>
   <td>
     
-  | A | B | C |
-  |--|--|--|
-  | 1 | 2 | 3 |
+ <img src="./Camera Roll/emergency contact screen.jpg"  alt="1" width = 300px height = 640px >
    </td>
 </tr>
 
