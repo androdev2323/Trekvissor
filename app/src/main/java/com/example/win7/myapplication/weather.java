@@ -35,7 +35,7 @@ public class weather extends AppCompatActivity {
     public void get(View v){
         String apikey="ENTER_YOUR_API_KEY";
         String city=et.getText().toString();
-        String url="https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=fed48cb60b4add6bef4ae985386b1081";
+        String url="https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid"=+apikey;
         RequestQueue queue= Volley.newRequestQueue(getApplicationContext());
         JsonObjectRequest request=new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
             @Override
