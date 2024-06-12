@@ -33,7 +33,7 @@ public class weather extends AppCompatActivity {
         tv=findViewById(R.id.tv);
     }
     public void get(View v){
-        String apikey="fed48cb60b4add6bef4ae985386b1081";
+        String apikey="ENTER_YOUR_API_KEY";
         String city=et.getText().toString();
         String url="https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid=fed48cb60b4add6bef4ae985386b1081";
         RequestQueue queue= Volley.newRequestQueue(getApplicationContext());
